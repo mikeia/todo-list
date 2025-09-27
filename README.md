@@ -20,6 +20,22 @@ A ideia foi construir um **Todo List** simples, mas completo, com persistência 
 - LocalStorage para persistência
 - Deploy com [GitHub Pages](https://pages.github.com/)
 
+## 🚀 Deploy
+O projeto está publicado no GitHub Pages:  
+👉 [Clique aqui para acessar](https://mikeia.github.io/todo-list/)
+
+## 📸 Preview
+
+![Preview do projeto](https://github.com/mikeia/todo-list/blob/main/src/assets/preview.png?raw=true)
+
+
+## 👨‍💻 Autor
+**Mikeias Silva**
+
+- [LinkedIn](https://www.linkedin.com/in/mikeias-silva/)  
+- [GitHub](https://github.com/mikeia)
+
+  
 ## 📦 Como rodar o projeto
 
 Clone este repositório:
@@ -43,19 +59,6 @@ Copiar código
 npm run dev
 O app ficará disponível em http://localhost:5173.
 
-## 🚀 Deploy
-O projeto está publicado no GitHub Pages:  
-👉 [Clique aqui para acessar](https://mikeia.github.io/todo-list/)
-
-## 📸 Preview
-
-![Preview do projeto](https://github.com/mikeia/todo-list/blob/main/src/assets/preview.png?raw=true)
-
-
-## 👨‍💻 Autor
-**Mikeias Silva**
-
-- [LinkedIn](https://www.linkedin.com/in/mikeias-silva/)  
-- [GitHub](https://github.com/mikeia)  
+ 
 
 👨‍💻 Projeto feito com foco em aprendizado e prática de React + Vite.
