@@ -55,7 +55,7 @@ O projeto está publicado no GitHub Pages:
 ## 👨‍💻 Autor
 **Mikeias Silva**
 
-- [🌐 LinkedIn](https://www.linkedin.com/in/mikeias-silva/)  
-- [💻 GitHub](https://github.com/mikeia)  
+- [LinkedIn](https://www.linkedin.com/in/mikeias-silva/)  
+- [GitHub](https://github.com/mikeia)  
 
 👨‍💻 Projeto feito com foco em aprendizado e prática de React + Vite.
